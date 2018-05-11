@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<plugins>
+    <plugin>
+        <name>plugin_01</name>
+        <jar>F:/myJar/plugin01.jar</jar>
+        <filter>com.uestc</filter>
+    </plugin>
+</plugins>
